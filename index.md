@@ -4,7 +4,7 @@ title: Climbing World Cup App
 
 ## Privacy Policy
 
-Blaž Šolar s.p. built the Climbing World Cup app as a Free app. This SERVICE is provided by Blaž Šolar s.p. at no cost and is intended for use as is.
+Blaz Solar s.p. built the Climbing World Cup app as a Free app. This SERVICE is provided by Blaz Solar s.p. at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -22,6 +22,7 @@ Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+*   [Fabric](https://fabric.io/privacy)
 *   [Crashlytics](http://try.crashlytics.com/terms/privacy-policy.pdf)
 
 **Log Data**
