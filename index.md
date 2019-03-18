@@ -1,3 +1,7 @@
+---
+title: Climbing World Cup App
+---
+
 ## Privacy Policy
 
 Blaž Šolar s.p. built the Climbing World Cup app as a Free app. This SERVICE is provided by Blaž Šolar s.p. at no cost and is intended for use as is.
