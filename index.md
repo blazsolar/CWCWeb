@@ -1,5 +1,5 @@
 ---
-title: Climbing World Cup App
+title: Climbr App
 ---
 
 **Privacy Policy**
