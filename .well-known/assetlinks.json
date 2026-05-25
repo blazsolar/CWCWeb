@@ -1,0 +1,20 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.climbingwc",
+      "sha256_cert_fingerprints":
+        ["C0:01:9F:FF:13:66:33:2E:9F:20:B1:41:E8:F2:5C:33:BE:2A:F5:AE:67:FE:33:B8:3A:CB:D5:92:30:9B:52:F4"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.climbingwc.admin",
+      "sha256_cert_fingerprints":
+        ["92:AC:C1:98:FD:33:8C:7A:5D:54:C0:1D:EC:3E:7E:13:41:02:6C:C0:29:45:50:06:76:CF:B8:16:84:B8:4D:EF"]
+    }
+  }
+]
