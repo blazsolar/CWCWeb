@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Climbing World Cup App
 
-include: [.well-known/]
+include:
+  - ".well-known"
